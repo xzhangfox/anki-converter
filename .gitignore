@@ -1,0 +1,17 @@
+# Anki package files
+*.apkg
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Image cache
+_img_cache/
+
+# macOS
+.DS_Store
+
+# Python virtual envs
+.venv/
+venv/
